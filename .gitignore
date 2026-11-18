@@ -1,0 +1,25 @@
+# 构建产物
+build/
+out/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Visual Studio / CMake 临时文件
+.vs/
+CMakeCache.txt
+CMakeFiles/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+*.log
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
